@@ -1,0 +1,7 @@
+# This is a comment.
+# Below is a set of x y coordinates:
+1 0
+-2 3
+
+# you can use floats as well.
+3 3.1
